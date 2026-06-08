@@ -243,47 +243,6 @@ Panic During Interviews ↓
 
 ---
 
-# 🤝 Contributions
-
-This repository is primarily a personal learning journal.
-
-However:
-
-- Suggestions are welcome
-- Better approaches are welcome
-- Optimizations are welcome
-- Bug reports are welcome
-
----
-
-# ⭐ Final Thought
-
-> "A coding interview isn't testing whether you've seen the exact problem before.
->
-> It's testing whether you've trained your brain to recognize patterns."
-
-If you're also on the grind:
-
-### Keep Coding.
-### Keep Learning.
-### Keep Shipping.
-
----
-
-<div align="center">
-
-### 🎯 Road To 720
-
-```text
-[░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0%
-```
-
-One problem at a time.
-
-⭐ Star the repo if you're on the same journey.
-
-</div>
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
@@ -332,3 +291,30 @@ One problem at a time.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
+
+# 🤝 Contributions
+
+This repository is primarily a personal learning journal.
+
+However:
+
+- Suggestions are welcome
+- Better approaches are welcome
+- Optimizations are welcome
+- Bug reports are welcome
+
+
+# ⭐ Final Thought
+
+> *"A coding interview isn't testing whether you've seen the exact problem before.
+> It's testing whether you've trained your brain to recognize patterns."*
+
+<div align="center">
+
+*One problem at a time.*
+
+⭐ Star the repo if you're on the same journey.
+
+</div>
+
+---

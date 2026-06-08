@@ -41,6 +41,10 @@ class Solution:
           s = "((((("), we might push all characters onto the stack.
         ========================================================================
         """
+        # OPTIMIZATION 1: A valid string MUST have an even length
+        if len(s) % 2 != 0:
+            return False
+
         # Dictionary to quickly map and validate bracket pairs
         bracket_map = {'(': ')', '{': '}', '[': ']'}
         stack = []

@@ -249,6 +249,7 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0001-two-sum/) | Easy |
+| [0704-binary-search](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +296,10 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
 
 # 🤝 Contributions

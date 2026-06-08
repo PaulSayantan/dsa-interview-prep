@@ -1,50 +1,43 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
-
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         """
         Returns the inorder traversal of a binary tree's nodes' values.
         
         Intuition:
-        Inorder traversal dictates that we must visit the nodes in a specific sequence:
-        1. Explore the entire left subtree.
-        2. Visit the current node (the "root" of the current subtree).
-        3. Explore the entire right subtree.
-        This naturally maps to a recursive function.
+        To replicate the Left -> Root -> Right behavior without recursion, we need a 
+        way to remember the nodes we've passed while digging down the left side of the 
+        tree. A Stack (LIFO data structure) is perfect for this. We push nodes onto the 
+        stack as we go left. When we can't go left anymore, we pop a node, process it, 
+        and then move to its right child.
 
-        Approach: Recursive DFS
-        We define a helper function `traversal(node)` that visits the left child, 
-        appends the current node's value to a shared results list, and then visits 
-        the right child. The base case is hitting a `None` node (a leaf's child), 
-        at which point we just return.
+        Approach: Iterative DFS with Stack
+        1. Use a pointer `curr` starting at the root.
+        2. Loop as long as `curr` is not None OR the stack is not empty.
+        3. Inner loop: Keep moving `curr` to `curr.left`, pushing each node to the stack.
+        4. When `curr` is None, pop from the stack, record its value, and set `curr` to 
+           the right child.
         
-        Time Complexity: O(n) - We visit every node in the tree exactly once.
-        Space Complexity: O(n) - In the worst case (a completely skewed/unbalanced tree), 
-                          the recursion stack will grow to the size of n. In a perfectly 
-                          balanced tree, space is O(log n).
+        Time Complexity: O(n) - Every node is pushed and popped from the stack exactly once.
+        Space Complexity: O(n) - The stack can hold up to n nodes in the worst case 
+                          (a skewed tree leaning completely left).
         """
         res = []
+        stack = []
+        curr = root
         
-        def traversal(node):
-            # Base Case: If the node doesn't exist, stop traversing this branch.
-            if node == None: 
-                return
+        while curr is not None or stack:
+            # Go as far left as possible, pushing nodes onto the stack
+            while curr is not None:
+                stack.append(curr)
+                curr = curr.left
+                
+            # We've hit a dead end on the left. Pop the last node.
+            curr = stack.pop()
             
-            # Step 1: Traverse the left subtree
-            traversal(node.left)
+            # Process the node
+            res.append(curr.val)
             
-            # Step 2: Process the current node
-            res.append(node.val)
+            # Move to the right subtree to continue traversal
+            curr = curr.right
             
-            # Step 3: Traverse the right subtree
-            traversal(node.right)
-        
-        # Start the recursive traversal from the root node
-        traversal(root)
-        
         return res

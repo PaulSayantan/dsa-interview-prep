@@ -1,5 +1,288 @@
-# dsa-interview-prep
-Personal coding interview preparation repository containing LeetCode solutions, algorithm notes, pattern recognition, and problem-solving insights.
+<div align="center">
+
+# 🚀 LeetCode Journey: 720 Problems in 120 Days
+
+### "Turning coffee ☕ into accepted submissions ✅"
+
+![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/leetcode-journey)
+![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/leetcode-journey)
+![GitHub stars](https://img.shields.io/github/stars/USERNAME/leetcode-journey?style=social)
+
+---
+
+### 🎯 Mission
+
+Solve **720 LeetCode Problems** in **120 Days**
+
+📅 Start Date: June 2026  
+🏁 Target End Date: October 2026
+
+---
+
+> *"Every accepted solution is one step closer to not getting humbled by coding interviews."*
+
+</div>
+
+---
+
+# 📖 About This Repository
+
+Welcome to my personal LeetCode grind vault.
+
+This repository documents my journey of solving **720 coding interview problems** over **120 days**, focusing primarily on:
+
+- Data Structures
+- Algorithms
+- Coding Interview Patterns
+- Problem Solving Techniques
+- Optimization Strategies
+- Interview Preparation
+
+The goal isn't just to collect solutions, it's to build:
+
+✅ Pattern Recognition  
+✅ Problem Solving Intuition  
+✅ Interview Confidence  
+✅ Consistency
+
+and hopefully...
+
+✅ Fewer moments of staring at a LeetCode Hard for 45 minutes wondering if life has meaning.
+
+---
+
+# 🧠 Tech Stack
+
+Because every repository needs a tech stack section.
+
+| Category | Tools |
+|-----------|--------|
+| Language | Python & Java |
+| Version Control | Git |
+| Sleep Schedule | Under Investigation |
+| Motivation | Variable |
+| Coffee Dependency | High |
+
+---
+
+# 🎯 Challenge Rules
+
+### Daily Target
+
+To hit 720 problems in 120 days:
+
+```text
+720 ÷ 120 = 6 problems/day
+```
+
+Meaning:
+
+```text
+Wake Up
+Code
+Debug
+Question Life Choices
+Get AC
+Repeat
+```
+
+# 🗺️ Learning Roadmap
+
+This repository follows a pattern-based learning approach.
+
+## Foundations
+
+- [ ] Arrays
+- [ ] Strings
+- [ ] Hash Maps
+- [ ] Linked Lists
+- [ ] Stacks
+- [ ] Queues
+
+## Intermediate
+
+- [ ] Binary Search
+- [ ] Two Pointers
+- [ ] Sliding Window
+- [ ] Prefix Sum
+- [ ] Heaps
+- [ ] Greedy
+
+## Advanced
+
+- [ ] Trees
+- [ ] BST
+- [ ] Graphs
+- [ ] Backtracking
+- [ ] Dynamic Programming
+- [ ] Tries
+- [ ] Union Find
+
+## Boss Fights 👹
+
+- [ ] Hard Graph Problems
+- [ ] DP on Trees
+- [ ] Bit Manipulation
+- [ ] Segment Trees
+- [ ] Advanced Greedy
+- [ ] Systematic Interview Simulations
+
+### Code
+
+Clean and documented Python & Java solution.
+
+---
+
+# 🧩 Pattern Library
+
+One thing I learned while practicing DSA:
+
+> Most "new" problems are old problems wearing sunglasses.
+
+This repository categorizes problems into reusable patterns:
+
+- Two Pointers
+- Sliding Window
+- Binary Search
+- Prefix Sum
+- Fast & Slow Pointer
+- Backtracking
+- Graph Traversal
+- Dynamic Programming
+- Greedy
+- Heap
+- Union Find
+
+The objective is not to memorize solutions.
+
+The objective is to recognize patterns faster than interviewers can say:
+
+> "Can you optimize that further?"
+
+---
+
+# 🔥 Current Focus
+
+```python
+while interview_not_cleared:
+    solve_problem()
+    learn_pattern()
+    write_notes()
+    repeat()
+```
+
+---
+
+# 📈 Why This Repository Exists
+
+Because:
+
+```text
+Knowledge in brain
+        ↓
+Forgotten after 3 months
+```
+
+is not a sustainable storage strategy.
+
+This repository serves as:
+
+- Personal Knowledge Base
+- Interview Revision Guide
+- Progress Tracker
+- Long-Term Reference
+- Public Accountability Log
+
+---
+
+# 💀 Common Events During This Challenge
+
+### Day 1
+
+"I'll finish 720 problems easily."
+
+### Day 20
+
+"Mediums aren't that bad."
+
+### Day 45
+
+"Why does Dynamic Programming exist?"
+
+### Day 70
+
+"Graphs are actually beautiful."
+
+### Day 90
+
+"Maybe I understand DP."
+
+### Day 120
+
+"Maybe the real optimization was the friends we made along the way."
+
+---
+
+# 🏆 End Goal
+
+By the end of this challenge:
+
+- 720 Problems Solved
+- Strong DSA Foundations
+- Interview-Ready Pattern Recognition
+- Comprehensive Revision Notes
+- Consistent Coding Habit
+
+And ideally:
+
+```text
+LeetCode Rating ↑
+Interview Confidence ↑
+Panic During Interviews ↓
+```
+
+---
+
+# 🤝 Contributions
+
+This repository is primarily a personal learning journal.
+
+However:
+
+- Suggestions are welcome
+- Better approaches are welcome
+- Optimizations are welcome
+- Bug reports are welcome
+
+---
+
+# ⭐ Final Thought
+
+> "A coding interview isn't testing whether you've seen the exact problem before.
+>
+> It's testing whether you've trained your brain to recognize patterns."
+
+If you're also on the grind:
+
+### Keep Coding.
+### Keep Learning.
+### Keep Shipping.
+
+---
+
+<div align="center">
+
+### 🎯 Road To 720
+
+```text
+[░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0%
+```
+
+One problem at a time.
+
+⭐ Star the repo if you're on the same journey.
+
+</div>
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

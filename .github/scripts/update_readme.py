@@ -126,7 +126,8 @@ def generate_markdown_table(stats: Dict[str, int]) -> str:
 
 def update_readme() -> None:
     """
-    Reads the file system target content and injects updated data within target tags.
+    Reads the file system target content and safely injects updated data
+    within target tags without disturbing surrounding documentation.
     """
     stats = count_problems()
     new_metrics_table = generate_markdown_table(stats)
@@ -137,25 +138,26 @@ def update_readme() -> None:
     with open(README_PATH, "r", encoding="utf-8") as file:
         current_content = file.read()
 
-    tracker_regex = r"[\s\S]*"
+    # Adding '?' makes the match non-greedy so it won't consume the rest of your file
+    tracker_regex = r"[\s\S]*?"
 
-    # Confirm that boundary anchors exist before performing destructive write actions
+    # Confirm that boundary anchors exist before performing write actions
     if not re.search(tracker_regex, current_content):
         logger.critical(
             "Process Failed: Could not find the structural markers inside your file!"
         )
-        logger.error(
-            "Please add the hidden tags to your file before executing this action."
-        )
+        logger.error("Please ensure the hidden tags are present in your README.md.")
         return
 
     replacement_target = f"\n\n{new_metrics_table}\n\n"
 
-    logger.info("Substituting old dashboard parameters with calculated metrics...")
+    logger.info(
+        "Substituting old dashboard parameters with calculated metrics safely..."
+    )
     updated_content = re.sub(tracker_regex, replacement_target, current_content)
 
     logger.info(
-        f"Writing updated payload changes back out to filesystem storage on paths: '{README_PATH}'"
+        f"Writing updated payload changes back out to filesystem storage: '{README_PATH}'"
     )
     with open(README_PATH, "w", encoding="utf-8") as file:
         file.write(updated_content)

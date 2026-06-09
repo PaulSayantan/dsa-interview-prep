@@ -1,0 +1,41 @@
+name: Update LeetCode Progress Tracker
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'README.md' # Prevents infinite loops when the action commits back
+
+permissions:
+  contents: write
+
+jobs:
+  update-tracker:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Run Tracker Script
+      run: python update_readme.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        
+        # Check if there are changes to commit so the build doesn't fail
+        if git diff --cached --quiet; then
+          echo "No changes to README.md"
+        else
+          git commit -m "chore: update progress metrics in README [skip ci]"
+          git push
+        fi

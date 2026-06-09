@@ -314,6 +314,16 @@ Panic During Interviews ↓
 <!---LeetCode Topics End-->
 
 <!-- START_METRICS_TRACKER -->
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 7 | 🟩 |
+| 🟡 **Medium** | 1 | 🟨 |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **8** / 720 | **1.1% Completed** |
+
 <!-- END_METRICS_TRACKER -->
 
 # 🤝 Contributions

@@ -1,16 +1,14971 @@
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
-<!---LeetCode Topics End-->
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+
+
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 1 | 🟩 |
+| 🟡 **Medium** | 0 | ⬜ |
+| 🔴 **Hard** | 0 | ⬜ |
+| 🏆 **Total Solved** | **1** / 720 | **0.1% Completed** |
+

@@ -5,104 +5,67 @@
 #         self.left = left
 #         self.right = right
 
+from collections import deque
+
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         """
-        Returns the maximum depth (height) of a binary tree.
+        ITERATIVE BFS SOLUTION
 
-        --------------------------------------------------------------------
+        ----------------------------------------------------------------
         INTUITION
-        --------------------------------------------------------------------
-        Think of the problem from the perspective of a single node.
 
-        For any node:
-            - Its left subtree already knows its maximum depth.
-            - Its right subtree already knows its maximum depth.
+        Each layer of the tree contributes exactly one level to the
+        overall depth.
 
-        Therefore, the depth of the current node becomes:
+        Therefore, if we perform a level-order traversal (BFS), we can
+        simply count how many levels are present.
 
-                1 + max(left subtree depth, right subtree depth)
+        ----------------------------------------------------------------
+        ALGORITHM
 
-        The '+1' accounts for the current node itself.
+        1. Put the root into a queue.
+        2. Process one complete level at a time.
+        3. After finishing a level, increase depth by 1.
+        4. Continue until the queue becomes empty.
 
-        --------------------------------------------------------------------
-        RECURSIVE THOUGHT PROCESS
-        --------------------------------------------------------------------
-
-                      3
-                    /   \
-                   9     20
-                        /  \
-                      15    7
-
-        Starting from node 3:
-
-        depth(3)
-            = 1 + max(depth(9), depth(20))
-
-        depth(9)
-            = 1 + max(depth(None), depth(None))
-            = 1
-
-        depth(20)
-            = 1 + max(depth(15), depth(7))
-
-        depth(15)
-            = 1
-
-        depth(7)
-            = 1
-
-        Therefore:
-
-        depth(20) = 2
-        depth(3)  = 3
-
-        --------------------------------------------------------------------
-        WHY POSTORDER TRAVERSAL?
-        --------------------------------------------------------------------
-        We cannot compute the answer for the current node until both children
-        have already computed their depths.
-
-        Thus, the order is:
-
-            Left subtree
-            Right subtree
-            Current node
-
-        which is Postorder traversal.
-
-        --------------------------------------------------------------------
-        BASE CASE
-        --------------------------------------------------------------------
-        If the node is None, there is no tree and its depth is 0.
-
-        --------------------------------------------------------------------
+        ----------------------------------------------------------------
         TIME COMPLEXITY
-        --------------------------------------------------------------------
+
         O(N)
-        Every node is visited exactly once.
 
-        --------------------------------------------------------------------
+        ----------------------------------------------------------------
         SPACE COMPLEXITY
-        --------------------------------------------------------------------
-        O(H)
 
-        H = height of tree
+        O(W)
 
-        Best case (balanced tree): O(log N)
-        Worst case (skewed tree):  O(N)
+        W = maximum width of the tree.
         """
 
-        # Empty tree has depth 0.
         if root is None:
             return 0
 
-        # Recursively find depth of left subtree.
-        leftDepth = self.maxDepth(root.left)
+        queue = deque([root])
 
-        # Recursively find depth of right subtree.
-        rightDepth = self.maxDepth(root.right)
+        depth = 0
 
-        # Current node contributes 1 level to the larger subtree depth.
-        return 1 + max(leftDepth, rightDepth)
+        while queue:
+
+            # Number of nodes currently belonging to this level.
+            level_size = len(queue)
+
+            # Process the entire level.
+            for _ in range(level_size):
+
+                node = queue.popleft()
+
+                if node.left:
+                    queue.append(node.left)
+
+                if node.right:
+                    queue.append(node.right)
+
+            # One level has been completely processed.
+            depth += 1
+
+        return depth

@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 """
-LeetCode Progress Tracker Automation Script (with Verbose Logging).
-
-This script parses the repository's README.md file, tracks unique problem IDs
-to avoid double-counting across different topic sections, and automatically
-updates a dynamic visual dashboard component bounded by tracking tags.
+LeetCode Progress Tracker Automation Script.
+Parses unique problem rows from markdown tables and manages the tracker dashboard.
 """
 
 import os
@@ -12,98 +9,51 @@ import re
 import logging
 from typing import Dict, Set
 
-# ==============================================================================
-# 1. LOGGING CONFIGURATION
-# ==============================================================================
-# Setting up standard streaming logs with levels, timestamps, and message types.
 logging.basicConfig(
-    level=logging.INFO,  # Change to logging.DEBUG for deep internal variable tracking
+    level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S",
 )
 logger = logging.getLogger("ReadmeTracker")
 
-# ==============================================================================
-# 2. CONFIGURATION & REGEX DEFINITION
-# ==============================================================================
 README_PATH = "README.md"
 TARGET_TOTAL_PROBLEMS = 720
 
-# Regex breakdown:
-# - \|\s* : Opening vertical border pipe with flexible spaces
-# - \[(\d+-[a-zA-Z0-9-]+)\] : Group 1: Captures unique numerical prefix + problem slug identifier
-# - \(.*?\)               : Non-greedy match for the hyperlink path
-# - \s*\|\s* : Column separation border wall
-# - \*?(Easy|Medium|Hard)\*? : Group 2: Captures difficulty names wrapped inside optional formatting asterisks
-# - \s*\|                 : Closing vertical row column wall
+# Strict regex to capture uniquely formatted problem IDs and difficulties from tables
 PROBLEM_ROW_PATTERN = re.compile(
     r"\|\s*\[(\d+-[a-zA-Z0-9-]+)\]\(.*?\)\s*\|\s*\*?(Easy|Medium|Hard)\*?\s*\|"
 )
 
 
 def count_problems() -> Dict[str, int]:
-    """
-    Parses README.md line by line to extract and deduplicate solved LeetCode problems.
-    """
-    logger.info("Initializing LeetCode problem parsing cycle...")
-
+    """Parses README.md to extract and deduplicate solved LeetCode problems."""
+    logger.info("Scanning repository documentation for problem entries...")
     stats: Dict[str, int] = {"Easy": 0, "Medium": 0, "Hard": 0}
     seen_problems: Set[str] = set()
 
     if not os.path.exists(README_PATH):
-        logger.error(
-            f"Target execution file missing: '{README_PATH}' was not found in the root directory."
-        )
         return stats
 
-    logger.info(f"Successfully located target tracking document: '{README_PATH}'")
-
     with open(README_PATH, "r", encoding="utf-8") as file:
-        lines = file.readlines()
+        content = file.read()
+
+    matches = PROBLEM_ROW_PATTERN.findall(content)
+    for problem_id, difficulty in matches:
+        if problem_id not in seen_problems:
+            seen_problems.add(problem_id)
+            stats[difficulty] += 1
 
     logger.info(
-        f"Scanning through {len(lines)} file markdown data rows for problem matrix matches..."
+        f"Deduplication finished. Found {len(seen_problems)} unique solved problems."
     )
-
-    # Process line-by-line to extract meaningful verbose contextual data logs
-    for line_num, line in enumerate(lines, 1):
-        match = PROBLEM_ROW_PATTERN.search(line)
-        if match:
-            problem_id, difficulty = match.groups()
-            logger.debug(
-                f"Row Match found on Line {line_num}: ID='{problem_id}' | Diff='{difficulty}'"
-            )
-
-            if problem_id not in seen_problems:
-                seen_problems.add(problem_id)
-                stats[difficulty] += 1
-                logger.info(
-                    f"  [NEW] Counted unique solution: {problem_id} ({difficulty})"
-                )
-            else:
-                # This log statement flags cross-referenced entries explicitly
-                logger.info(
-                    f"  [SKIP] Duplicate reference detected on Line {line_num}: '{problem_id}' already indexed under another category."
-                )
-
-    logger.info("=== Aggregated Analysis Summary ===")
-    logger.info(f"🟢 Easy Solved   : {stats['Easy']}")
-    logger.info(f"🟡 Medium Solved : {stats['Medium']}")
-    logger.info(f"🔴 Hard Solved   : {stats['Hard']}")
-    logger.info(f"🏆 Total Unique  : {len(seen_problems)} / {TARGET_TOTAL_PROBLEMS}")
-
     return stats
 
 
 def generate_markdown_table(stats: Dict[str, int]) -> str:
-    """
-    Assembles a styled markdown progress metric component block.
-    """
-    logger.info("Constructing text compilation for updated Markdown matrix...")
+    """Assembles the clean, styled markdown progress metrics component."""
     total_solved = sum(stats.values())
     completion_percentage = round((total_solved / TARGET_TOTAL_PROBLEMS) * 100, 1)
 
-    # Generate dynamic emoji matrix scale layout block (1 block per 5 problems)
     easy_progress = "🟩" * (stats["Easy"] // 5 or 1) if stats["Easy"] else "⬜"
     medium_progress = "🟨" * (stats["Medium"] // 5 or 1) if stats["Medium"] else "⬜"
     hard_progress = "🟥" * (stats["Hard"] // 5 or 1) if stats["Hard"] else "⬜"
@@ -117,53 +67,43 @@ def generate_markdown_table(stats: Dict[str, int]) -> str:
         f"| 🔴 **Hard** | {stats['Hard']} | {hard_progress} |",
         f"| 🏆 **Total Solved** | **{total_solved}** / {TARGET_TOTAL_PROBLEMS} | **{completion_percentage}% Completed** |",
     ]
-
-    logger.info(
-        f"Successfully built UI Table element with a calculation of {completion_percentage}% progress."
-    )
     return "\n".join(table_lines)
 
 
 def update_readme() -> None:
-    """
-    Reads the file system target content and safely injects updated data
-    within target tags without disturbing surrounding documentation.
-    """
+    """Safely replaces content exclusively within the designated tracking tags."""
+    if not os.path.exists(README_PATH):
+        logger.error(f"File {README_PATH} not found.")
+        return
+
     stats = count_problems()
     new_metrics_table = generate_markdown_table(stats)
 
-    logger.info(
-        f"Opening '{README_PATH}' to locate tracker markdown boundary comments..."
-    )
     with open(README_PATH, "r", encoding="utf-8") as file:
-        current_content = file.read()
+        content = file.read()
 
-    # Adding '?' makes the match non-greedy so it won't consume the rest of your file
-    tracker_regex = r"[\s\S]*?"
+    start_tag = "<!-- START_METRICS_TRACKER -->"
+    end_tag = "<!-- END_METRICS_TRACKER -->"
 
-    # Confirm that boundary anchors exist before performing write actions
-    if not re.search(tracker_regex, current_content):
+    # String partitioning prevents any possibility of regex greediness erasing files
+    if start_tag not in content or end_tag not in content:
         logger.critical(
-            "Process Failed: Could not find the structural markers inside your file!"
+            "Aborting update: Could not find the structural tracker markers inside README.md!"
         )
-        logger.error("Please ensure the hidden tags are present in your README.md.")
         return
 
-    replacement_target = f"\n\n{new_metrics_table}\n\n"
+    # Isolate everything before the start tag, and everything after the end tag
+    before_tracker = content.split(start_tag)[0]
+    after_tracker = content.split(end_tag)[1]
 
-    logger.info(
-        "Substituting old dashboard parameters with calculated metrics safely..."
-    )
-    updated_content = re.sub(tracker_regex, replacement_target, current_content)
+    # Rebuild the file injecting the new stats strictly inside the markers
+    updated_content = f"{before_tracker}{start_tag}\n\n{new_metrics_table}\n\n{end_tag}{after_tracker}"
 
-    logger.info(
-        f"Writing updated payload changes back out to filesystem storage: '{README_PATH}'"
-    )
     with open(README_PATH, "w", encoding="utf-8") as file:
         file.write(updated_content)
 
     logger.info(
-        "File system sync complete. GitHub Action workflow updating sequences terminated successfully."
+        "README.md system sync finalized successfully without touching external text."
     )
 
 

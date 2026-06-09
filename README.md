@@ -256,6 +256,7 @@ Panic During Interviews ↓
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -266,10 +267,12 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

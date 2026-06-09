@@ -4,9 +4,8 @@
 
 ### "Turning coffee ☕ into accepted submissions ✅"
 
-![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/leetcode-journey)
-![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/leetcode-journey)
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/leetcode-journey?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/PaulSayantan/dsa-interview-prep)
+![GitHub repo size](https://img.shields.io/github/repo-size/PaulSayantan/dsa-interview-prep)
 
 ---
 

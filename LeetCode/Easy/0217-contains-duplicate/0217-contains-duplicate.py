@@ -1,28 +1,22 @@
-from typing import List
-
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         """
-        In-place Sorting Approach.
+        Hash Set Approach.
         
         Intuition:
-        If an array contains duplicate elements, sorting the array will force 
-        those duplicates to be adjacent to each other. By checking every element 
-        with its immediate neighbor, we can easily catch duplicates.
+        We can trade a little bit of memory for speed. By keeping track of the 
+        elements we've already seen in a Hash Set, we can check if a number 
+        is a duplicate in instant O(1) time as we loop through the list.
         
         Complexity:
-        - Time Complexity: O(N log N) due to the sorting step (`nums.sort()`).
-        - Space Complexity: O(1) or O(N) depending on the language's sorting 
-          implementation (Python's Timsort uses up to O(N) space in the worst case).
+        - Time Complexity: O(N) because looking up and adding elements to a set takes O(1) on average.
+        - Space Complexity: O(N) to store the elements in the set.
         """
-        # Step 1: Sort the array to bring duplicates next to each other
-        nums.sort()
+        seen = set()
         
-        # Step 2: Iterate through the array and compare adjacent elements
-        i = 0
-        while i < len(nums) - 1:
-            if nums[i] == nums[i+1]:
+        for num in nums:
+            if num in seen:
                 return True  # Found a duplicate!
-            i += 1
+            seen.add(num)
             
         return False  # All elements are unique

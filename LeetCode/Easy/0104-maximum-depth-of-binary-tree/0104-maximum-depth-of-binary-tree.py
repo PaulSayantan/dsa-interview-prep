@@ -5,67 +5,36 @@
 #         self.left = left
 #         self.right = right
 
-from collections import deque
-
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         """
-        ITERATIVE BFS SOLUTION
+        ITERATIVE DFS
 
-        ----------------------------------------------------------------
-        INTUITION
+        Store:
 
-        Each layer of the tree contributes exactly one level to the
-        overall depth.
+            (node, current depth)
 
-        Therefore, if we perform a level-order traversal (BFS), we can
-        simply count how many levels are present.
+        inside the stack.
 
-        ----------------------------------------------------------------
-        ALGORITHM
-
-        1. Put the root into a queue.
-        2. Process one complete level at a time.
-        3. After finishing a level, increase depth by 1.
-        4. Continue until the queue becomes empty.
-
-        ----------------------------------------------------------------
-        TIME COMPLEXITY
-
-        O(N)
-
-        ----------------------------------------------------------------
-        SPACE COMPLEXITY
-
-        O(W)
-
-        W = maximum width of the tree.
+        Whenever we visit a node, update the maximum depth seen so far.
         """
 
         if root is None:
             return 0
 
-        queue = deque([root])
+        stack = [(root, 1)]
+        max_depth = 0
 
-        depth = 0
+        while stack:
 
-        while queue:
+            node, depth = stack.pop()
 
-            # Number of nodes currently belonging to this level.
-            level_size = len(queue)
+            max_depth = max(max_depth, depth)
 
-            # Process the entire level.
-            for _ in range(level_size):
+            if node.left:
+                stack.append((node.left, depth + 1))
 
-                node = queue.popleft()
+            if node.right:
+                stack.append((node.right, depth + 1))
 
-                if node.left:
-                    queue.append(node.left)
-
-                if node.right:
-                    queue.append(node.right)
-
-            # One level has been completely processed.
-            depth += 1
-
-        return depth
+        return max_depth

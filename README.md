@@ -252,6 +252,7 @@ Panic During Interviews ↓
 | [0303-range-sum-query-immutable](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0704-binary-search](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +315,7 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +336,14 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 <!---LeetCode Topics End-->
 
 <!-- START_METRICS_TRACKER -->

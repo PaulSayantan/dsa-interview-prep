@@ -344,6 +344,14 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
 
 <!-- START_METRICS_TRACKER -->

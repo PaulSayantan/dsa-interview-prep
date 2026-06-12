@@ -248,6 +248,7 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0001-two-sum/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0704-binary-search](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
@@ -279,6 +280,7 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0070-climbing-stairs/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |

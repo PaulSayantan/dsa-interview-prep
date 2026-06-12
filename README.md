@@ -362,10 +362,10 @@ Panic During Interviews ↓
 
 | Difficulty | Count | Progress |
 | :--- | :---: | :--- |
-| 🟢 **Easy** | 12 | 🟩🟩 |
+| 🟢 **Easy** | 13 | 🟩🟩 |
 | 🟡 **Medium** | 1 | 🟨 |
 | 🔴 **Hard** | 1 | 🟥 |
-| 🏆 **Total Solved** | **14** / 720 | **1.9% Completed** |
+| 🏆 **Total Solved** | **15** / 720 | **2.1% Completed** |
 
 <!-- END_METRICS_TRACKER -->
 

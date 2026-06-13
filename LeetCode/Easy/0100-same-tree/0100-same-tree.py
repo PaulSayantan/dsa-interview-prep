@@ -6,21 +6,13 @@
 #         self.right = right
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-        def traverseTree(node: Optional[TreeNode]):
-            if node == None:
-                yield None
-                return
-            yield node.val
-            yield from traverseTree(node.left)
-            yield from traverseTree(node.right)
+        if not p and not q:
+            return True
 
-        gen_p = traverseTree(p)
-        gen_q = traverseTree(q)
+        if not p or not q or p.val != q.val:
+            return False
 
-        for val_p, val_q in itertools.zip_longest(gen_p, gen_q):
-            if val_p != val_q:
-                return False
-        return True
+        return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
 
         
         

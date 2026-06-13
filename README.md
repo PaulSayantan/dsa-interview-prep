@@ -297,6 +297,7 @@ Panic During Interviews ↓
 | [0094-binary-tree-inorder-traversal](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +310,7 @@ Panic During Interviews ↓
 | [0094-binary-tree-inorder-traversal](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +342,7 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +354,7 @@ Panic During Interviews ↓
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -360,6 +364,14 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
 
 <!-- START_METRICS_TRACKER -->

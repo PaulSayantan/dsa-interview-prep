@@ -295,16 +295,19 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -331,6 +334,7 @@ Panic During Interviews ↓
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Design
 | Problem Name | Difficulty |

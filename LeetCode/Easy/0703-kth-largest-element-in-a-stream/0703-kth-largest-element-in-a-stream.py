@@ -1,23 +1,27 @@
 import heapq
-class KthLargest:
+from typing import List
 
+class KthLargest:
     def __init__(self, k: int, nums: List[int]):
         self.k = k
         self.heap = nums
-
-        # create a min-heap
+        
+        # 1. Transform the initial list into a min-heap
         heapq.heapify(self.heap)
-
-        # remove elements untill heap size reduces to k
+        
+        # 2. Pop the smallest elements until only the 'k' largest remain
         while len(self.heap) > self.k:
             heapq.heappop(self.heap)
 
     def add(self, val: int) -> int:
+        # Push the new value into the heap
         heapq.heappush(self.heap, val)
-
+        
+        # If the heap size exceeds k, pop the smallest element
         if len(self.heap) > self.k:
             heapq.heappop(self.heap)
-
+            
+        # The root of the min-heap is always the kth largest element
         return self.heap[0]
         
 

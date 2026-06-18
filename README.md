@@ -280,6 +280,7 @@ Panic During Interviews ↓
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

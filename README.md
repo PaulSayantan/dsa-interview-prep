@@ -16,6 +16,19 @@ Solve **720 LeetCode Problems** in **120 Days**
 📅 Start Date: June 2026  
 🏁 Target End Date: October 2026
 
+<!-- START_METRICS_TRACKER -->
+
+### 📊 Progress Tracker
+
+| Difficulty | Count | Progress |
+| :--- | :---: | :--- |
+| 🟢 **Easy** | 19 | 🟩🟩🟩 |
+| 🟡 **Medium** | 2 | 🟨 |
+| 🔴 **Hard** | 1 | 🟥 |
+| 🏆 **Total Solved** | **22** / 720 | **3.1% Completed** |
+
+<!-- END_METRICS_TRACKER -->
+
 ---
 
 > *"Every accepted solution is one step closer to not getting humbled by coding interviews."*
@@ -386,19 +399,6 @@ Panic During Interviews ↓
 | ------- | ------- |
 | [3838-weighted-word-mapping](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 <!---LeetCode Topics End-->
-
-<!-- START_METRICS_TRACKER -->
-
-### 📊 Progress Tracker
-
-| Difficulty | Count | Progress |
-| :--- | :---: | :--- |
-| 🟢 **Easy** | 19 | 🟩🟩🟩 |
-| 🟡 **Medium** | 2 | 🟨 |
-| 🔴 **Hard** | 1 | 🟥 |
-| 🏆 **Total Solved** | **22** / 720 | **3.1% Completed** |
-
-<!-- END_METRICS_TRACKER -->
 
 # 🤝 Contributions
 

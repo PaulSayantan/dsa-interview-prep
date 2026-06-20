@@ -1,3 +1,4 @@
+import collections
 from typing import List
 
 class Solution:
@@ -5,61 +6,57 @@ class Solution:
     Problem: LeetCode 200 - Number of Islands
     
     INTUITION:
-    Think of the grid as a map of the ocean ('0') and land ('1'). As we scan the map 
-    from top-left to bottom-right, every time we encounter a '1', we have discovered 
-    a completely new island. However, to avoid counting the same island multiple times 
-    when we check its connected parts later, we need a way to mark it as "seen". 
-    The easiest way to do this is to "sink" the island—turning every connected '1' into 
-    a '0' using a Depth-First Search (DFS).
+    Similar to DFS, we want to find a piece of land ('1') and "sink" the entire island 
+    so we don't count it again. However, instead of diving deep to the end of the island 
+    recursively (DFS), we will explore the island layer-by-layer (BFS) like a ripple in 
+    a pond. We use a Queue to keep track of the next coordinates to check.
     
     APPROACH:
-    1. Iterate through every cell in the m x n grid using nested loops.
-    2. When a piece of land ('1') is found:
-       a. Increment the `islands` counter.
-       b. Trigger a DFS starting from that cell.
-    3. The DFS will:
-       a. Check for out-of-bounds or water ('0') cells and return immediately if found.
-       b. Mutate the current cell from '1' to '0' to mark it as visited (optimizing space).
-       c. Recursively call itself in all 4 valid directions (Up, Down, Left, Right).
-    4. Once the nested loops finish, return the total island count.
+    1. Iterate through the grid looking for land ('1').
+    2. Upon finding land, increment our `islands` count and start a BFS:
+       a. Initialize a Queue and enqueue the starting cell's coordinates.
+       b. Immediately mark the cell as '0' (visited) so it isn't added to the queue again.
+       c. While the queue is not empty, pop the front cell.
+       d. Check its 4 neighbors (Up, Down, Left, Right).
+       e. If a neighbor is '1', mark it as '0' and push it into the queue.
+    3. Return the total island count.
     
     COMPLEXITY:
-    - Time Complexity: $O(M \times N)$ where M is rows and N is columns. We visit every 
-      cell at least once. During the DFS, we visit each land cell a constant number of times.
-    - Space Complexity: $O(M \times N)$ in the worst-case scenario (a grid filled entirely 
-      with land) due to the depth of the recursive call stack. However, by mutating the 
-      grid directly, we save the $O(M \times N)$ auxiliary space that a separate `visited` 
-      matrix would have consumed.
+    - Time Complexity: $O(M \times N)$ where M is rows and N is columns. Every cell is 
+      visited and processed a constant number of times.
+    - Space Complexity: $O(\min(M, N))$ for the queue. In the worst-case scenario (an 
+      island filling the grid), the queue holds the expanding perimeter of the BFS. 
     """
     def numIslands(self, grid: List[List[str]]) -> int:
         if not grid:
             return 0
         
-        n = len(grid)      # Number of rows
-        m = len(grid[0])   # Number of columns
+        n = len(grid)
+        m = len(grid[0])
         islands = 0
         
-        def dfs(r: int, c: int):
-            # Base cases: out of bounds or current cell is water/already visited
-            if r < 0 or r >= n or c < 0 or c >= m or grid[r][c] == '0':
-                return
+        # Directions: Up, Down, Left, Right
+        directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+        
+        def bfs(r, c):
+            queue = collections.deque([(r, c)])
+            grid[r][c] = '0' # Sink immediately upon adding to queue
             
-            # Sink the land to prevent revisiting
-            grid[r][c] = '0'
-            
-            # Explore the 4 adjacent horizontal and vertical directions
-            dfs(r - 1, c) # Up
-            dfs(r + 1, c) # Down
-            dfs(r, c - 1) # Left
-            dfs(r, c + 1) # Right
+            while queue:
+                curr_r, curr_c = queue.popleft()
+                
+                for dr, dc in directions:
+                    nr, nc = curr_r + dr, curr_c + dc
+                    
+                    # If neighbor is valid and is land, queue it up and sink it
+                    if 0 <= nr < n and 0 <= nc < m and grid[nr][nc] == '1':
+                        queue.append((nr, nc))
+                        grid[nr][nc] = '0' 
 
-        # Scan the entire grid
         for i in range(n):
             for j in range(m):
-                # If unvisited land is found, it's a new island
                 if grid[i][j] == '1':
                     islands += 1
-                    # Sink all connected land for this island
-                    dfs(i, j) 
+                    bfs(i, j)
                     
         return islands

@@ -23,9 +23,9 @@ Solve **720 LeetCode Problems** in **120 Days**
 | Difficulty | Count | Progress |
 | :--- | :---: | :--- |
 | 🟢 **Easy** | 21 | 🟩🟩🟩🟩 |
-| 🟡 **Medium** | 4 | 🟨 |
+| 🟡 **Medium** | 5 | 🟨 |
 | 🔴 **Hard** | 1 | 🟥 |
-| 🏆 **Total Solved** | **26** / 720 | **3.6% Completed** |
+| 🏆 **Total Solved** | **27** / 720 | **3.8% Completed** |
 
 <!-- END_METRICS_TRACKER -->
 

@@ -1,4 +1,3 @@
-import collections
 from typing import List
 
 class Solution:
@@ -6,57 +5,93 @@ class Solution:
     Problem: LeetCode 200 - Number of Islands
     
     INTUITION:
-    Similar to DFS, we want to find a piece of land ('1') and "sink" the entire island 
-    so we don't count it again. However, instead of diving deep to the end of the island 
-    recursively (DFS), we will explore the island layer-by-layer (BFS) like a ripple in 
-    a pond. We use a Queue to keep track of the next coordinates to check.
+    Instead of exploring an island until we reach the water (like DFS or BFS), 
+    we start by assuming every single piece of land ('1') is completely isolated—its 
+    own distinct island. As we scan the map, whenever we find two pieces of land next 
+    to each other, we build a bridge between them (a "Union"). Every time we connect 
+    two previously separate islands, our total island count decreases by one. 
+    By the end of the scan, we will be left with the correct number of distinct islands.
     
     APPROACH:
-    1. Iterate through the grid looking for land ('1').
-    2. Upon finding land, increment our `islands` count and start a BFS:
-       a. Initialize a Queue and enqueue the starting cell's coordinates.
-       b. Immediately mark the cell as '0' (visited) so it isn't added to the queue again.
-       c. While the queue is not empty, pop the front cell.
-       d. Check its 4 neighbors (Up, Down, Left, Right).
-       e. If a neighbor is '1', mark it as '0' and push it into the queue.
-    3. Return the total island count.
+    1. Initializing the Disjoint Set:
+       - Iterate through the grid.
+       - Whenever we find land ('1'), we map its 2D coordinates (row, col) to a 1D 
+         index (row * total_columns + col).
+       - We record this index in our `parent` array, essentially making the cell 
+         its own "root" or "parent". We also increment our `islands` counter.
+       - Water cells ('0') get a placeholder (-1) in the `parent` array.
+    2. Finding the Root (`find`):
+       - To check which island a cell belongs to, we trace its parents up to the "root".
+       - We use "Path Compression" here: once we find the root, we connect the cell 
+         directly to it so future lookups are lightning fast.
+    3. Connecting Islands (`union`):
+       - We find the roots of the two adjacent land cells.
+       - If they have different roots (meaning they were previously separate islands), 
+         we connect them by making one root the parent of the other.
+       - We then decrement our total `islands` count by 1.
+    4. Building the Map:
+       - We scan the grid a second time. 
+       - For every '1', we only need to check the cell to its Right and the cell Down. 
+         (Checking Left and Up is redundant because we already processed them earlier).
+       - If a neighbor is also '1', we `union` them.
+    5. Return the final `islands` count.
     
     COMPLEXITY:
-    - Time Complexity: $O(M \times N)$ where M is rows and N is columns. Every cell is 
-      visited and processed a constant number of times.
-    - Space Complexity: $O(\min(M, N))$ for the queue. In the worst-case scenario (an 
-      island filling the grid), the queue holds the expanding perimeter of the BFS. 
+    - Time Complexity: $O(M \times N \times \alpha(M \times N))$. We iterate over the 
+      grid to initialize and then to union. The `find` and `union` operations take 
+      nearly $O(1)$ time thanks to path compression, governed by the inverse Ackermann 
+      function $\alpha$. For all practical purposes, this evaluates to $O(M \times N)$.
+    - Space Complexity: $O(M \times N)$ explicitly used to store the `parent` array, 
+      which maps out every single cell in the grid.
     """
     def numIslands(self, grid: List[List[str]]) -> int:
         if not grid:
             return 0
+            
+        m, n = len(grid), len(grid[0])
         
-        n = len(grid)
-        m = len(grid[0])
+        # parent array to track which set a cell belongs to
+        parent = []
         islands = 0
         
-        # Directions: Up, Down, Left, Right
-        directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
-        
-        def bfs(r, c):
-            queue = collections.deque([(r, c)])
-            grid[r][c] = '0' # Sink immediately upon adding to queue
-            
-            while queue:
-                curr_r, curr_c = queue.popleft()
-                
-                for dr, dc in directions:
-                    nr, nc = curr_r + dr, curr_c + dc
-                    
-                    # If neighbor is valid and is land, queue it up and sink it
-                    if 0 <= nr < n and 0 <= nc < m and grid[nr][nc] == '1':
-                        queue.append((nr, nc))
-                        grid[nr][nc] = '0' 
-
-        for i in range(n):
-            for j in range(m):
+        # 1. Initialize the board
+        for i in range(m):
+            for j in range(n):
                 if grid[i][j] == '1':
+                    # Map the 2D coordinate to a 1D index
+                    parent.append(i * n + j)
                     islands += 1
-                    bfs(i, j)
+                else:
+                    # Water cells get a placeholder
+                    parent.append(-1)
                     
+        # Find the root of the set a cell belongs to (with path compression)
+        def find(i: int) -> int:
+            if parent[i] == i:
+                return i
+            # Path compression: point the node directly to the root
+            parent[i] = find(parent[i])
+            return parent[i]
+            
+        # Connect two adjacent land cells into the same set
+        def union(i: int, j: int):
+            nonlocal islands
+            root_i = find(i)
+            root_j = find(j)
+            
+            # If they have different roots, connect them and decrement the island count
+            if root_i != root_j:
+                parent[root_i] = root_j
+                islands -= 1
+                
+        # 2. Traverse the grid and connect adjacent lands
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == '1':
+                    # Only check Right and Down to avoid redundant unions
+                    if j + 1 < n and grid[i][j + 1] == '1':
+                        union(i * n + j, i * n + j + 1) # Right
+                    if i + 1 < m and grid[i + 1][j] == '1':
+                        union(i * n + j, (i + 1) * n + j) # Down
+                        
         return islands

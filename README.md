@@ -290,6 +290,7 @@ Panic During Interviews ↓
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Two Pointers
@@ -306,6 +307,7 @@ Panic During Interviews ↓
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -377,6 +379,7 @@ Panic During Interviews ↓
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |

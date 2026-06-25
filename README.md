@@ -275,6 +275,7 @@ Panic During Interviews ↓
 | [1840-maximum-building-height](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -284,6 +285,7 @@ Panic During Interviews ↓
 | [0141-linked-list-cycle](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,10 +394,12 @@ Panic During Interviews ↓
 | [0303-range-sum-query-immutable](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -405,6 +409,7 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,6 +438,14 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
 
 # 🤝 Contributions

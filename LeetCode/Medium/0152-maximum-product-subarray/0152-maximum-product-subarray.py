@@ -1,21 +1,20 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        maxProd = float('-inf')
+        max_prod = float('-inf')
+        prefix = 1
+        suffix = 1
+        n = len(nums)
         
-        # perform forward pass and calculate prefix product
-        prefixProd = 1
-        for n in nums:
-            prefixProd *= n
-            maxProd = max(maxProd, prefixProd)
-            if prefixProd == 0:
-                prefixProd = 1
-
-        # perform backward pass and calculate the suffix product
-        suffixProd = 1
-        for i in range(len(nums) - 1, -1, -1):
-            suffixProd *= nums[i]
-            maxProd = max(maxProd, suffixProd)
-            if suffixProd == 0:
-                suffixProd = 1
-
-        return maxProd
+        for i in range(n):
+            # Reset to 1 if we encounter a zero
+            if prefix == 0: prefix = 1
+            if suffix == 0: suffix = 1
+            
+            # Multiply from the front and the back simultaneously 
+            prefix *= nums[i]
+            suffix *= nums[n - 1 - i]
+            
+            # Update the max product
+            max_prod = max(max_prod, prefix, suffix)
+            
+        return max_prod

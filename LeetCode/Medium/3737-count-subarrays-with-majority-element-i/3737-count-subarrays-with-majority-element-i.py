@@ -1,50 +1,41 @@
 class Solution:
     def countMajoritySubarrays(self, nums: List[int], target: int) -> int:
         """
-        Thought Process:
-        The problem asks us to find all subarrays where a specific `target` element 
-        appears strictly more than half the time. Looking at the constraints, 
-        nums.length is at most 1000. An O(n^2) brute-force algorithm will take 
-        roughly 1,000,000 operations, which easily passes within the standard time limits.
-        Therefore, we can check every possible subarray.
-
-        Intuition:
-        Instead of counting the exact frequencies of all elements in every subarray 
-        (which would be slow and require extra space), we only care about the balance 
-        between our `target` element and *all other* elements combined. 
-        If we treat the `target` as +1 and any other number as -1, a subarray has the 
-        `target` as its majority element if and only if the sum of these values is strictly greater than 0.
-
-        Approach:
-        1. Initialize a `count` variable to keep track of the valid subarrays.
-        2. Use a nested loop to generate all possible subarrays. The outer loop `i` 
-           sets the starting index of the subarray.
-        3. For each starting index `i`, initialize a `majority` counter to 0.
-        4. The inner loop `j` expands the subarray one element at a time to the right.
-        5. For each new element nums[j], adjust the `majority` counter (+1 if it's 
-           the target, -1 if it's not).
-        6. If `majority` > 0, it means the target appears strictly more than half 
-           the time in the current subarray nums[i..j], so we increment our `count`.
+        O(n) Time | O(n) Space Approach Using Prefix Sums & Dynamic Frequencies
         """
         n = len(nums)
-        count = 0  # To store the total number of valid subarrays
+        # We need an array to store the frequencies of prefix sums we have seen.
+        # Since the prefix sum can range from -n to +n, we use an array of size 2n + 2.
+        # We'll use 'n' as our "zero" offset so we don't have to deal with negative indices.
+        freq = [0] * (2 * n + 2)
+        offset = n 
         
-        # i represents the starting index of our current subarray
-        for i in range(n):
-            majority = 0  # Tracks the net balance of 'target' vs 'non-target' elements
+        running_sum = 0
+        # We start by having seen a prefix sum of 0 exactly once (the empty prefix before the array starts)
+        freq[offset + 0] = 1 
+        
+        smaller_count = 0  # Tracks how many previous prefix sums are STRICTLY LESS than the current running_sum
+        total_subarrays = 0
+        
+        for num in nums:
+            if num == target:
+                # Our sum is going up by 1.
+                # Therefore, any prefix sum that was exactly equal to our OLD running sum 
+                # is now strictly smaller than our NEW running sum.
+                smaller_count += freq[offset + running_sum]
+                running_sum += 1
+            else:
+                # Our sum is going down by 1.
+                # Therefore, any prefix sum that is exactly equal to our NEW running sum 
+                # is no longer strictly smaller than it. We must subtract its frequency.
+                running_sum -= 1
+                smaller_count -= freq[offset + running_sum]
             
-            # j represents the ending index of our current subarray
-            for j in range(i, n):
-                # If we see the target, it helps our majority score
-                if nums[j] == target:
-                    majority += 1
-                # If we see any other number, it hurts our majority score
-                else:
-                    majority -= 1
-                
-                # If the score is positive, the target outnumbers all other elements combined
-                # meaning it strictly takes up more than half the subarray length
-                if majority > 0:
-                    count += 1
-                    
-        return count
+            # The current 'smaller_count' represents the exact number of valid starting 
+            # indices for the current ending index 'j'. We add it to our total.
+            total_subarrays += smaller_count
+            
+            # Finally, record that we have seen this new running_sum one more time.
+            freq[offset + running_sum] += 1
+            
+        return total_subarrays

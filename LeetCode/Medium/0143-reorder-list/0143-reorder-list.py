@@ -8,6 +8,10 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
+        # Edge case: If the list is empty or has only one node, no reordering is needed
+        if not head or not head.next:
+            return
+        
         # first reach the mid point of the linkedlist
         slow = head
         fast = head.next

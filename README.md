@@ -312,6 +312,7 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0069-sqrtx](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -367,6 +368,7 @@ Panic During Interviews ↓
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 ## Greedy

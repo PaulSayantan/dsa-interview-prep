@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 LeetCode Journey: 720 Problems in 120 Days
+# 🚀 LeetCode Journey: 720 Problems Marathon
 
 ### "Turning coffee ☕ into accepted submissions ✅"
 

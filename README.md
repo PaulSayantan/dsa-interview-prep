@@ -264,6 +264,7 @@ Panic During Interviews ↓
 | [0011-container-with-most-water](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0049-group-anagrams](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -287,6 +288,7 @@ Panic During Interviews ↓
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
@@ -368,6 +370,7 @@ Panic During Interviews ↓
 | [0005-longest-palindromic-substring](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
@@ -386,6 +389,7 @@ Panic During Interviews ↓
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |

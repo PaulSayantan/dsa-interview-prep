@@ -271,6 +271,7 @@ Panic During Interviews ↓
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0169-majority-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
@@ -291,6 +292,7 @@ Panic During Interviews ↓
 | [0003-longest-substring-without-repeating-characters](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -393,6 +395,7 @@ Panic During Interviews ↓
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [1840-maximum-building-height](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
@@ -435,6 +438,7 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bit Manipulation
@@ -472,6 +476,7 @@ Panic During Interviews ↓
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -481,6 +486,10 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
 
 # 🤝 Contributions

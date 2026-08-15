@@ -1,23 +1,33 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
-        # Find the min and max to know our range boundaries
-        min_val = min(nums)
-        max_val = max(nums)
-        
-        # Create a frequency array. 
-        # Size is max - min + 1 to account for 0 and negative ranges.
-        counts = [0] * (max_val - min_val + 1)
-        
-        # Tally the occurrences of each number
-        for num in nums:
-            counts[num - min_val] += 1
+        def heapify(n, i):
+            largest = i
+            left = 2 * i + 1
+            right = 2 * i + 2
             
-        # Reconstruct the sorted array
-        index = 0
-        for i in range(len(counts)):
-            while counts[i] > 0:
-                nums[index] = i + min_val
-                index += 1
-                counts[i] -= 1
+            # Check if left child exists and is greater than root
+            if left < n and nums[left] > nums[largest]:
+                largest = left
                 
+            # Check if right child exists and is greater than largest so far
+            if right < n and nums[right] > nums[largest]:
+                largest = right
+                
+            # Change root, if needed, and continue heapifying
+            if largest != i:
+                nums[i], nums[largest] = nums[largest], nums[i]
+                heapify(n, largest)
+
+        n = len(nums)
+        
+        # Step 1: Build a maxheap. 
+        # Start from the last non-leaf node and heapify each node up to the root.
+        for i in range(n // 2 - 1, -1, -1):
+            heapify(n, i)
+            
+        # Step 2: Extract elements one by one
+        for i in range(n - 1, 0, -1):
+            nums[i], nums[0] = nums[0], nums[i]  # Swap root (max) with end
+            heapify(i, 0)                        # Heapify the reduced heap
+            
         return nums

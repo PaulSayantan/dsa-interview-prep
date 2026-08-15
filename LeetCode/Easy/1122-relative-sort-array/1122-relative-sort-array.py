@@ -1,80 +1,74 @@
 # ============================================================================
-# EDUCATIONAL GUIDE: RELATIVE SORT ARRAY
+# EDUCATIONAL GUIDE: RELATIVE SORT ARRAY (OPTIMIZED)
 # ============================================================================
 
 # ### Conceptual Breakdown
 # 
-# - **Core Algorithmic Pattern:** Hashing / Frequency Counting (Counting Sort variant).
-# - **Alternative Pattern:** Custom Sorting with Hash Map lookups.
+# - **Core Algorithmic Pattern:** True Counting Sort (Array-based frequency map).
 # 
 # - **Mental Intuition & Logic:**
-#   Your previous solution uses nested loops to physically swap elements in `arr1` 
-#   based on matching elements in `arr2`. This results in an O(N * M) time complexity 
-#   where N is the length of arr1 and M is the length of arr2. It works, but as you 
-#   can see from the 299ms runtime, it creates a lot of overhead.
+#   Your previous solution was great, but Hash Maps have a slight overhead, and 
+#   we still had to use `sorted(leftovers)` which takes O(K log K) time. 
 #
-#   Instead of searching `arr1` repeatedly for every element in `arr2`, think of `arr2` 
-#   as a "blueprint" or "recipe". 
+#   Since we know the problem constraints say elements are between 0 and 1000, 
+#   we can use a simple list of size 1001 as our "frequency map". 
 #   
-#   1. We need to know *exactly how many* of each ingredient (element) we have in `arr1`. 
-#      A Hash Map (or frequency array) is the perfect data structure to count elements 
-#      in O(N) time.
-#   2. Once we have the counts, we can simply read our `arr2` blueprint. For every 
-#      number in `arr2`, we check our frequency map, and append that number to our 
-#      result list exactly as many times as it appeared in `arr1`.
-#   3. After processing all elements in `arr2`, any elements left in our frequency 
-#      map are the "leftovers" that didn't appear in `arr2`.
-#   4. The problem asks us to sort these leftovers in ascending order and attach 
-#      them to the end of our result.
+#   1. We count the occurrences of each number in `arr1` using an array where the 
+#      index represents the number, and the value represents its frequency.
+#   2. We build the first part of our result using the `arr2` blueprint, just 
+#      like before, and zero out the counts as we use them.
+#   3. For the leftovers, instead of gathering them and sorting them, we simply 
+#      iterate through our counting array from index 0 up to 1000. Because we are 
+#      iterating through indices in ascending order, any remaining counts are 
+#      naturally appended in strictly ascending sorted order! No `sort()` needed!
 
-import collections
 from typing import List
 
 class Solution:
     def relativeSortArray(self, arr1: List[int], arr2: List[int]) -> List[int]:
         """
-        Sorts arr1 such that the relative ordering of items is the same as in arr2.
-        Elements that do not appear in arr2 are placed at the end of arr1 in ascending order.
+        Sorts arr1 based on the relative ordering of items in arr2.
+        Elements not in arr2 are placed at the end in ascending order.
+        
+        This optimized version uses an array for counting to achieve linear time.
 
         Args:
-            arr1 (List[int]): The array to be sorted.
+            arr1 (List[int]): The array to be sorted. Elements are between 0 and 1000.
             arr2 (List[int]): The reference array dictating the sort order. 
-                              All elements in arr2 are distinct, and all elements in arr2 
-                              are also in arr1.
 
         Returns:
             List[int]: A new array containing the sorted elements.
 
-        Time Complexity: O(N * log(N)) in the worst case (if all elements are leftovers 
-                         and need sorting), or O(N + M) if most elements are in arr2.
-                         (N = len(arr1), M = len(arr2))
-        Space Complexity: O(N) to store the frequency map and the resulting array.
+        Time Complexity: O(N + M + U), where N is len(arr1), M is len(arr2), 
+                         and U is the maximum possible value in arr1 (1000). 
+                         This is strictly linear O(N) and eliminates the O(N log N) sort.
+        Space Complexity: O(U) for the frequency array. Since U is a constant 1000, 
+                          this effectively boils down to O(1) auxiliary space!
         """
         
-        # Step 1: Create a frequency map of all elements in arr1
-        # collections.Counter does this in highly optimized O(N) time
-        element_counts = collections.Counter(arr1)
+        # Step 1: Create a fixed-size counting array (size 1001 for elements 0-1000)
+        max_val = 1001 
+        count = [0] * max_val
         
+        # Step 2: Populate the frequency array
+        for num in arr1:
+            count[num] += 1
+            
         result = []
         
-        # Step 2: Build the first part of the result using the arr2 blueprint
+        # Step 3: Build the result according to the arr2 blueprint
         for num in arr2:
-            if num in element_counts:
-                # Append the number 'freq' times to the result
-                result.extend([num] * element_counts[num])
-                
-                # Delete the element from the map so only "leftovers" remain
-                del element_counts[num]
-        
-        # Step 3: Collect all remaining elements (those not in arr2)
-        leftovers = []
-        for num, freq in element_counts.items():
-            leftovers.extend([num] * freq)
+            # Append 'num' exactly count[num] times
+            result.extend([num] * count[num])
+            # Zero out the count so we know it has been processed
+            count[num] = 0
             
-        # Step 4: Sort the leftovers and append them to the final result
-        # Note: sorting leftovers takes O(K * log K) where K is the number of leftovers
-        result.extend(sorted(leftovers))
-        
+        # Step 4: Append the leftovers naturally sorted
+        # By iterating from 0 to 1000, we automatically get ascending order
+        for num in range(max_val):
+            if count[num] > 0:
+                result.extend([num] * count[num])
+                
         return result
 
 
@@ -82,20 +76,15 @@ class Solution:
 # ### Reusable Patterns & Key Takeaways
 # ============================================================================
 #
-# 1. **Frequency Maps for Reordering:** 
-#    Whenever a problem asks you to reorder, reconstruct, or group items based 
-#    on a specific given sequence, counting the elements first (using a Hash Map 
-#    or `collections.Counter`) is almost always faster than nested searching. 
-#    It turns an O(N * M) search operation into an O(N) count + O(1) lookup.
+# 1. **Fixed-Size Counting Sort:** 
+#    Whenever a problem involves sorting, grouping, or hashing numbers, ALWAYS 
+#    check the constraints. If the maximum value (U) is small (e.g., U <= 10^4), 
+#    an array-based counting sort `counts = [0] * (U + 1)` is significantly faster 
+#    and uses less memory overhead than a Hash Map.
 #
-# 2. **List Extension over Appending:**
-#    In Python, `list.extend([x] * count)` is highly optimized at the C-level 
-#    and is significantly faster and cleaner than writing a `for` loop to append 
-#    the same item multiple times.
-#
-# 3. **Destructive Processing (Deleting from Hash Maps):**
-#    Notice how we used `del element_counts[num]`. When processing data into categories 
-#    (e.g., "in arr2" vs "not in arr2"), deleting keys as you process them is an 
-#    elegant way to ensure the data structure only holds the "leftovers" at the end, 
-#    saving you from having to do a second pass checking `if num not in arr2`.
+# 2. **"Free" Sorting:**
+#    The biggest advantage of a counting array is that its indices are inherently 
+#    sorted. Iterating through the array automatically yields the elements in 
+#    ascending order, completely bypassing the O(N log N) barrier of comparison-based 
+#    sorting algorithms.
 # ============================================================================

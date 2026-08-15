@@ -281,6 +281,7 @@ Panic During Interviews ↓
 | [0705-design-hashset](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0877-stone-game](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [1122-relative-sort-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
@@ -298,6 +299,7 @@ Panic During Interviews ↓
 | [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0705-design-hashset](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
+| [1122-relative-sort-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -403,6 +405,7 @@ Panic During Interviews ↓
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [1122-relative-sort-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [1840-maximum-building-height](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -515,6 +518,15 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [1122-relative-sort-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
 
 # 🤝 Contributions

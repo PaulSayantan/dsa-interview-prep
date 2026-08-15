@@ -280,6 +280,7 @@ Panic During Interviews ↓
 | [0704-binary-search](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0877-stone-game](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
@@ -401,6 +402,7 @@ Panic During Interviews ↓
 | [0169-majority-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
+| [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1840-maximum-building-height](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -437,6 +439,7 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -444,6 +447,7 @@ Panic During Interviews ↓
 | [0053-maximum-subarray](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
+| [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -476,6 +480,7 @@ Panic During Interviews ↓
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -498,6 +503,18 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
 
 # 🤝 Contributions

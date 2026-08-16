@@ -263,6 +263,7 @@ Panic During Interviews ↓
 | [0001-two-sum](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
@@ -317,6 +318,7 @@ Panic During Interviews ↓
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
@@ -403,6 +405,7 @@ Panic During Interviews ↓
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |

@@ -9,11 +9,11 @@ Problem: Longest Consecutive Sequence
   average time complexity for lookups provided by a Hash Set. 
   
   The fundamental logical leap is realizing that a number is only the *true start* of a 
-  new consecutive sequence if the number immediately preceding it (num - 1) does not 
-  exist in the array. 
+  new consecutive sequence if the number immediately preceding it (el - 1) does not 
+  exist in the set. 
   
   By first converting the array to a set, we can iterate through the elements and apply 
-  this boundary check. We strictly limit our upward counting (num + 1, num + 2, ...) to 
+  this left-boundary check. We strictly limit our upward counting (next_el) to 
   only those numbers that are confirmed sequence starters. This prevents redundant 
   backward/forward counting and ensures each number in the array is visited at most 
   twice (once in the outer loop, and at most once in the inner while loop), guaranteeing 
@@ -40,28 +40,28 @@ class Solution:
         Space Complexity: O(n) - A Hash Set is created to store the unique numbers.
         """
         # Convert list to a set to remove duplicates and enable O(1) lookups
-        numset = set(nums)
-        longest_streak = 0
+        s = set(nums)
+        max_len = 0
 
-        for num in numset:
-            # OPTIMIZATION LOCK: Only initiate a sequence check if 'num' is the lowest value
-            # of a potential sequence. If 'num - 1' is in the set, 'num' is simply a middle 
-            # or end piece of a sequence we have either already counted or will count later.
-            if (num - 1) not in numset:
-                current_num = num
-                current_streak = 1
-
+        for el in s:
+            # OPTIMIZATION LOCK: Check if 'el' is the start of a sequence.
+            # If 'el - 1' is in the set, 'el' is simply a middle or end piece of a 
+            # sequence we have either already counted or will count later.
+            if el - 1 not in s:
+                length = 1
+                next_el = el + 1
+                
                 # Count upwards as far as the sequence goes.
                 # Because of our boundary check above, this while loop only fully executes
                 # exactly once for each distinctly connected sequence block.
-                while (current_num + 1) in numset:
-                    current_num += 1
-                    current_streak += 1
-
+                while next_el in s:
+                    length += 1
+                    next_el += 1
+                
                 # Update the maximum streak found across all evaluated sequences
-                longest_streak = max(longest_streak, current_streak)
-
-        return longest_streak
+                max_len = max(max_len, length)
+        
+        return max_len
 
 """
 ### Reusable Patterns and Key Takeaways
@@ -78,7 +78,6 @@ class Solution:
 
 3. Set vs. Dictionary (Hash Map) Selection:
    If the algorithm only requires existence verification rather than mapping a key to a 
-   persisted state (like in a dynamic programming approach), always prefer a Hash Set. 
-   It eliminates the memory overhead of tracking key-value pairs and keeps the logic 
-   streamlined.
+   persisted state, always prefer a Hash Set. It eliminates the memory overhead of tracking 
+   key-value pairs and keeps the logic streamlined.
 """

@@ -22,10 +22,10 @@ Solve **720 LeetCode Problems** in **120 Days**
 
 | Difficulty | Count | Progress |
 | :--- | :---: | :--- |
-| 🟢 **Easy** | 28 | 🟩🟩🟩🟩🟩 |
+| 🟢 **Easy** | 29 | 🟩🟩🟩🟩🟩 |
 | 🟡 **Medium** | 18 | 🟨🟨🟨 |
 | 🔴 **Hard** | 3 | 🟥 |
-| 🏆 **Total Solved** | **49** / 720 | **6.8% Completed** |
+| 🏆 **Total Solved** | **50** / 720 | **6.9% Completed** |
 
 <!-- END_METRICS_TRACKER -->
 

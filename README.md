@@ -277,6 +277,7 @@ Panic During Interviews ↓
 | [0200-number-of-islands](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0455-assign-cookies](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0704-binary-search](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
@@ -327,6 +328,7 @@ Panic During Interviews ↓
 | [0141-linked-list-cycle](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 ## Math

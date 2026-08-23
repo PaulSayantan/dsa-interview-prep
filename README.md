@@ -275,6 +275,7 @@ Panic During Interviews ↓
 | [0152-maximum-product-subarray](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
@@ -329,6 +330,7 @@ Panic During Interviews ↓
 | [0125-valid-palindrome](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0189-rotate-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
@@ -339,6 +341,7 @@ Panic During Interviews ↓
 | [0002-add-two-numbers](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0877-stone-game](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |

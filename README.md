@@ -287,6 +287,7 @@ Panic During Interviews ↓
 | [0560-subarray-sum-equals-k](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
+| [0739-daily-temperatures](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
@@ -373,6 +374,7 @@ Panic During Interviews ↓
 | [0094-binary-tree-inorder-traversal](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -559,6 +561,10 @@ Panic During Interviews ↓
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [1122-relative-sort-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
 
 # 🤝 Contributions

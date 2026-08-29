@@ -307,6 +307,7 @@ Panic During Interviews ↓
 | [0169-majority-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0705-design-hashset](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [1122-relative-sort-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -397,6 +398,7 @@ Panic During Interviews ↓
 | [0020-valid-parentheses](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -419,6 +421,7 @@ Panic During Interviews ↓
 | [0088-merge-sorted-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |

@@ -283,6 +283,7 @@ Panic During Interviews ↓
 | [0283-move-zeroes](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0455-assign-cookies](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0877-stone-game](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
@@ -308,6 +309,7 @@ Panic During Interviews ↓
 | [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0705-design-hashset](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [1122-relative-sort-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -450,6 +452,7 @@ Panic During Interviews ↓
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |

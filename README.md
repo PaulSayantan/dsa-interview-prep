@@ -372,6 +372,7 @@ Panic During Interviews ↓
 | [0020-valid-parentheses](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -447,6 +448,7 @@ Panic During Interviews ↓
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |

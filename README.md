@@ -284,6 +284,7 @@ Panic During Interviews ↓
 | [0283-move-zeroes](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0455-assign-cookies](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
+| [0496-next-greater-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
@@ -311,6 +312,7 @@ Panic During Interviews ↓
 | [0202-happy-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0496-next-greater-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0705-design-hashset](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [1122-relative-sort-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
@@ -374,6 +376,7 @@ Panic During Interviews ↓
 | [0094-binary-tree-inorder-traversal](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0496-next-greater-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -564,6 +567,7 @@ Panic During Interviews ↓
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
 

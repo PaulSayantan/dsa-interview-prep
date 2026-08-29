@@ -44,7 +44,7 @@ class Solution {
         
         // The monotonic decreasing stack acting as our "waiting room".
         // It stores the actual values from nums2, not indices.
-        Stack<Integer> stack = new Stack<>();
+        Deque<Integer> stack = new ArrayDeque<>();
         
         // Pass 1: Process the universal array (nums2) to build our mapping
         for (int currentNum : nums2) {

@@ -307,6 +307,7 @@ Panic During Interviews ↓
 | [0001-two-sum](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
@@ -409,6 +410,7 @@ Panic During Interviews ↓
 | [0014-longest-common-prefix](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
@@ -508,6 +510,7 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0076-minimum-window-substring/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |

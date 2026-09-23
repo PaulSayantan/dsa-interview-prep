@@ -270,6 +270,7 @@ Panic During Interviews ↓
 | [0053-maximum-subarray](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -373,6 +374,7 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
@@ -567,8 +569,13 @@ Panic During Interviews ↓
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
 
 # 🤝 Contributions

@@ -28,8 +28,7 @@ class Solution:
                 
                 # If this specific transaction yields more profit than our previous best, 
                 # we update max_profit.
-                if current_profit > max_profit:
-                    max_profit = current_profit
+                max_profit = max(current_profit, max_profit)
                     
         # Return the ultimate highest profit found. 
         # Space complexity is O(1) because we only used two variables regardless of input size.

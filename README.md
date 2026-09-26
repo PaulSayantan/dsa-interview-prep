@@ -284,6 +284,7 @@ Panic During Interviews ↓
 | [0238-product-of-array-except-self](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -367,6 +368,7 @@ Panic During Interviews ↓
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0877-stone-game](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Memoization
@@ -428,6 +430,7 @@ Panic During Interviews ↓
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -441,6 +444,7 @@ Panic During Interviews ↓
 | [0169-majority-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |

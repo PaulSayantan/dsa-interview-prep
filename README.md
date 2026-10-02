@@ -591,6 +591,7 @@ Panic During Interviews ↓
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 <!---LeetCode Topics End-->
 

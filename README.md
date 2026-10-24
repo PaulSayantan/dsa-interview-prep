@@ -400,6 +400,7 @@ Panic During Interviews ↓
 | [0100-same-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,6 +464,7 @@ Panic During Interviews ↓
 | [0100-same-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -593,6 +595,22 @@ Panic During Interviews ↓
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
 
 # 🤝 Contributions

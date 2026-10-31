@@ -296,6 +296,7 @@ Panic During Interviews ↓
 | [0905-sort-array-by-parity](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
@@ -319,6 +320,7 @@ Panic During Interviews ↓
 | [0560-subarray-sum-equals-k](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0705-design-hashset](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [1122-relative-sort-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -450,6 +452,7 @@ Panic During Interviews ↓
 | [0905-sort-array-by-parity](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1840-maximum-building-height](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -570,6 +573,7 @@ Panic During Interviews ↓
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -268,6 +268,7 @@ Panic During Interviews ↓
 | [0027-remove-element](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -521,6 +522,7 @@ Panic During Interviews ↓
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0054-spiral-matrix/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -535,6 +537,7 @@ Panic During Interviews ↓
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/PaulSayantan/dsa-interview-prep/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
